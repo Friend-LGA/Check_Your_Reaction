@@ -1,0 +1,242 @@
+//
+//  Created by Grigory Lutkov on 01.10.12.
+//  Copyright (c) 2012 Grigory Lutkov. All rights reserved.
+//
+
+"myName" = "Григорий Лутков";
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// MAIN MENU
+
+//////////////////////////////////////// Settings
+
+// Unselected
+
+"blueUnsel" = "   Синий";
+"greenUnsel" = "   Зелёный";
+"yellowUnsel" = "   Жёлтый";
+"violetUnsel" = "   Фиолетовый";
+"orangeUnsel" = "   Оранжевый";
+
+"easyUnsel" = "   Легко";
+"normalUnsel" = "   Нормально";
+"hardUnsel" = "   Тяжело";
+"insaneUnsel" = "   Безумно";
+
+"1PlayerUnsel" = "   1 Игрок";
+"2PlayersUnsel" = "   2 Игрока";
+
+"englishUnsel" = "   English";
+"russianUnsel" = "   Русский";
+
+"soundOnUnsel" = "   Вкл";
+"soundOffUnsel" = "   Выкл";
+
+"facebookUnsel" = "•  Facebook";
+"twitterUnsel" = "•  Twitter";
+"vkontakteUnsel" = "•  ВКонтакте";
+
+// Selected
+
+"blueSel" = ">  Синий";
+"greenSel" = ">  Зелёный";
+"yellowSel" = ">  Жёлтый";
+"violetSel" = ">  Фиолетовый";
+"orangeSel" = ">  Оранжевый";
+
+"easySel" = ">  Легко";
+"normalSel" = ">  Нормально";
+"hardSel" = ">  Тяжело";
+"insaneSel" = ">  Безумно";
+
+"1PlayerSel" = ">  1 Игрок";
+"2PlayersSel" = ">  2 Игрока";
+
+"englishSel" = ">  English";
+"russianSel" = ">  Русский";
+
+"soundOnSel" = ">  Вкл";
+"soundOffSel" = ">  Выкл";
+
+//////////////////////////////////////// Internet status
+
+"NotReachable" = "Без доступа к сети";
+"ReachableViaWWAN" = "Подключено через WWAN";
+"ReachableViaWiFi" = "Подключено через WiFi";
+
+//////////////////////////////////////// Menu buttons
+
+// Unselected
+
+"playButtonUnsel" = "ИГРАТЬ";
+"optionsButtonUnsel" = "НАСТРОЙКИ";
+"highscoresButtonUnsel" = "РЕКОРДЫ";
+"gamecenterButtonUnsel" = "GAME_CENTER";
+"helpButtonUnsel" = "ПОМОЩЬ";
+"purchasesButtonUnsel" = "ПОКУПКИ";
+"newsButtonUnsel" = "НОВОСТИ";
+
+// Selected
+
+"playButtonSel" = "[ИГРАТЬ]";
+"optionsButtonSel" = "[НАСТРОЙКИ]";
+"highscoresButtonSel" = "[РЕКОРДЫ]";
+"gamecenterButtonSel" = "[GAME_CENTER]";
+"helpButtonSel" = "[ПОМОЩЬ]";
+"purchasesButtonSel" = "[ПОКУПКИ]";
+"newsButtonSel" = "[НОВОСТИ]";
+
+//////////////////////////////////////// Help
+
+"helpTitle" = "ПОМОЩЬ";
+"helpAbout" = "• [1 Игрок] режим имеет разные уровни сложности\n• [2 Игрока] режим всегда запускается на лёгком уровне.\n\n• На лёгком и нормальном уровнях: когда цвет круга изменится на красный, коснитесь экрана так быстро, как сможете.\n• На сложном и безумном уровнях: коснитесь, когда цвет круга изменится на указанный вверху экрана.\n\n• После 10 попыток скорость вашей реакции будет рассчитана.";
+
+//////////////////////////////////////// Options
+
+"optionsTitle" = "НАСТРОЙКИ";
+"selectColorOfLight" = "Цвет:";
+"selectDifficulty" = "Сложность:";
+"selectGameMode" = "Режим игры:";
+"selectLanguage" = "Язык:";
+"selectSound" = "Звук:";
+"followUs" = "Подписывайтесь:";
+
+//////////////////////////////////////// News
+
+"newsTitle" = "НОВОСТИ";
+"newsAbout" = "Теперь вы можете запостить вашу реакцию на Facebook, Twitter и ВКонтакте, кнопки находятся на экране результатов.\nКроме того вы можете подписаться на нас, для этого проверьте экран настроек.\nУдачной игры :)";
+
+//////////////////////////////////////// Purchases
+
+"purchasesTitle" = "ПОКУПКИ";
+"removeAdsText" = "| Удалить рекламу (Ads) за $0.99 |";
+"removeAdsYes" = "(уже приобретено)";
+"restoreText" = "| Восстановить покупку |";
+"removeAdsNo" = "(нажмите на текст для покупки)";
+"donateTitle" = "ПОДДЕРЖАТЬ";
+"internetAvailabilityTitle" = "Статус интернет подключения:";
+
+//////////////////////////////////////// More Games
+
+"moreGamesTitle" = "БОЛЬШЕ ИГР";
+"priceFree" = "| Бесплатно";
+"download" = "| Скачать";
+"goToAppStore" = "| Перейти на страницу разработчика\nв AppStore |";
+"goToAppStorePad" = "| Перейти на страницу разработчика в AppStore |";
+
+//////////////////////////////////////// Texts
+
+"bestScore" = "Лучшее:";
+"lastScore" = "Текущее:";
+
+//////////////////////////////////////// GameCenter
+
+"leaderboards" = "Результаты";
+"achievements" = "Достижения";
+
+//////////////////////////////////////// Alert Messages
+
+"noInternetConnectionTitle" = "Ошибка";
+"noInternetConnectionMessage" = "Отсутствует подключение к интернету.";
+"close" = "Закрыть";
+"cancel" = "Отмена";
+"developer" = "Разработчик";
+"engine" = "Движок";
+"sounds" = "Звуки";
+"error" = "Ошибка";
+"firstPlay" = "Сначала вы должны сыграть в игру.";
+"GCErrorTitle" = "Game Center недоступен";
+"GCErrorMessage" = "Игрок не в системе";
+
+"RateTitle" = "Оценить игру?";
+"RateMessage" = "Каждая оценка привлечет больше соперников. Спасибо за вашу поддержку!";
+"RateOk" = "Оценить!";
+"RateLater" = "Позже";
+"RateNo" = "Нет, спасибо";
+
+"RatedTitle" = "Спасибо!";
+"RatedMessage" = "Мы этого не забудем :)";
+
+//////////////////////////////////////// MCGameCenter
+
+"MCGC_successTitle" = "Готово";
+"MCGC_highscoreText" = "Результат";
+"MCGC_successMessage" = "успешно синхронизован.";
+"MCGC_errorTitle" = "Ошибка";
+"MCGC_errorMessage" = "При отправке результата произошла ошибка.";
+
+//////////////////////////////////////// MCInAppPurchases
+
+"MCIAP_connectionError" = "Ошибка соединения";
+"MCIAP_tryAgainMessage" = "Пожалуйста, повторите попытку позже.";
+"MCIAP_purchasingDisabled" = "Покупки недоступны";
+"MCIAP_parentalControl" = "Измените настройки родительского контроля и попробуйте снова.";
+"MCIAP_progressAlertTitle" = "Подключение к серверу";
+"MCIAP_progressAlertMessage" = "Ожидание...";
+"MCIAP_purchaseSuccessfulTitle" = "Спасибо!";
+"MCIAP_purchaseRemoveAdsMessage" = "Вы успешно удалили рекламу. Перезапустите игру, чтобы изменения вступили в силу.";
+"MCIAP_purchaseDonate1Message" = "Вы успешно отправили $1. Мы признательны вам за это.";
+"MCIAP_purchaseDonate3Message" = "Вы успешно отправили $3. Мы признательны вам за это.";
+"MCIAP_purchaseDonate5Message" = "Вы успешно отправили $5. Мы признательны вам за это.";
+"MCIAP_purchaseDonate10Message" = "Вы успешно отправили $10. Мы признательны вам за это.";
+"MCIAP_purchaseDonate25Message" = "Вы успешно отправили $25. Мы признательны вам за это.";
+"MCIAP_purchasingError" = "Ошибка при покупке";
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// GAME LAYERS
+
+"timings" = "Время:";
+"finalScore" = "Ваше время:";
+"lateWarning" = "Слишком долго!";
+"earlyWarning2Players" = "Не касайтесь экрана, пока цвет не изменится на красный.";
+"earlyWarningEasy" = "Не касайтесь экрана, пока цвет не изменится на красный.\nОсталось ошибок: ";
+"earlyWarningHard" = "Не касайтесь экрана, пока цвет не изменится на указанный сверху.\nОсталось ошибок: ";
+"earlyWarningInsane" = "Не касайтесь экрана, пока цвет круга и цвет, указанный сверху, не совпадут.\nОсталось ошибок: ";
+
+"RED" = "КРАСНЫЙ";
+"BLUE" = "СИНИЙ";
+"GREEN" = "ЗЕЛЁНЫЙ";
+"YELLOW" = "ЖЁЛТЫЙ";
+"VIOLET" = "ФИОЛЕТОВЫЙ";
+"ORANGE" = "ОРАНЖЕВЫЙ";
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// HIGHSCORES LAYERS
+
+"currentReaction" = "Текущее время реакции:";
+"synchronizeGC" = "| Синхронизовать с GC |";
+
+"postText"      = "Скорость моей реакции -";
+"postEnd" = "Кто побьёт рекорд?!";
+"postURL" = "https://itunes.apple.com/ru/app/check-your-reaction/id515273616?mt=8";
+"@ApogeeStudio" = "@ApogeeStudioRu";
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// SPRITES
+
+"playButtonBottom" = "playBottom_ru.png";
+"playButtonBottomTapped" = "playBottomTapped_ru.png";
+"easyButton" = "easy_ru.png";
+"easyButtonTapped" = "easyTapped_ru.png";
+"normalButton" = "normal_ru.png";
+"normalButtonTapped" = "normalTapped_ru.png";
+"hardButton" = "hard_ru.png";
+"hardButtonTapped" = "hardTapped_ru.png";
+"insaneButton" = "insane_ru.png";
+"insaneButtonTapped" = "insaneTapped_ru.png";
+"moreGamesButton" = "moreGamesRU.png";
+"moreGamesButtonTapped" = "moreGamesRUTapped.png";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BaseFeatureIdString</key>
+	<string>com.ApogeeStudio.CheckYourReactionFree.</string>
+	<key>Consumables</key>
+	<array>
+		<string>com.ApogeeStudio.CheckYourReactionFree.Donate1</string>
+		<string>com.ApogeeStudio.CheckYourReactionFree.Donate3</string>
+		<string>com.ApogeeStudio.CheckYourReactionFree.Donate5</string>
+		<string>com.ApogeeStudio.CheckYourReactionFree.Donate10</string>
+		<string>com.ApogeeStudio.CheckYourReactionFree.Donate25</string>
+	</array>
+	<key>Non-Consumables</key>
+	<array>
+		<string>com.ApogeeStudio.CheckYourReactionFree.RemoveAds</string>
+	</array>
+</dict>
+</plist>

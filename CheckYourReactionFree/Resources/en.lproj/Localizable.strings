@@ -1,0 +1,238 @@
+//
+//  Created by Grigory Lutkov on 01.10.12.
+//  Copyright (c) 2012 Grigory Lutkov. All rights reserved.
+//
+
+"myName" = "Grigory Lutkov";
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// MAIN MENU
+
+//////////////////////////////////////// Settings
+
+// Unselected
+
+"blueUnsel" = "   Blue";
+"greenUnsel" = "   Green";
+"yellowUnsel" = "   Yellow";
+"violetUnsel" = "   Violet";
+"orangeUnsel" = "   Orange";
+
+"easyUnsel" = "   Easy";
+"normalUnsel" = "   Normal";
+"hardUnsel" = "   Hard";
+"insaneUnsel" = "   Insane";
+
+"1PlayerUnsel" = "   1 Player";
+"2PlayersUnsel" = "   2 Players";
+
+"englishUnsel" = "   English";
+"russianUnsel" = "   Русский";
+
+"soundOnUnsel" = "   On";
+"soundOffUnsel" = "   Off";
+
+"facebookUnsel" = "•  Facebook";
+"twitterUnsel" = "•  Twitter";
+"vkontakteUnsel" = "•  ВКонтакте";
+
+// Selected
+
+"blueSel" = ">  Blue";
+"greenSel" = ">  Green";
+"yellowSel" = ">  Yellow";
+"violetSel" = ">  Violet";
+"orangeSel" = ">  Orange";
+
+"easySel" = ">  Easy";
+"normalSel" = ">  Normal";
+"hardSel" = ">  Hard";
+"insaneSel" = ">  Insane";
+
+"1PlayerSel" = ">  1 Player";
+"2PlayersSel" = ">  2 Players";
+
+"englishSel" = ">  English";
+"russianSel" = ">  Русский";
+
+"soundOnSel" = ">  On";
+"soundOffSel" = ">  Off";
+
+//////////////////////////////////////// Internet status
+
+"NotReachable" = "Access not available";
+"ReachableViaWWAN" = "Connected to WWAN";
+"ReachableViaWiFi" = "Connected to WiFi";
+
+//////////////////////////////////////// Menu buttons
+
+// Unselected
+
+"playButtonUnsel" = "PLAY";
+"optionsButtonUnsel" = "OPTIONS";
+"highscoresButtonUnsel" = "HIGHSCORES";
+"gamecenterButtonUnsel" = "GAME_CENTER";
+"helpButtonUnsel" = "HELP";
+"purchasesButtonUnsel" = "PURCHASES";
+"newsButtonUnsel" = "NEWS";
+
+// Selected
+
+"playButtonSel" = "[PLAY]";
+"optionsButtonSel" = "[OPTIONS]";
+"highscoresButtonSel" = "[HIGHSCORES]";
+"gamecenterButtonSel" = "[GAME_CENTER]";
+"helpButtonSel" = "[HELP]";
+"purchasesButtonSel" = "[PURCHASES]";
+"newsButtonSel" = "[NEWS]";
+
+//////////////////////////////////////// Help
+
+"helpTitle" = "HELP";
+"helpAbout" = "• [1 player] mode has different levels of difficulty\n• [2 players] Mode always runs on easy level.\n\n• In easy & normal levels: when the color of the circle changes to red, touch the screen as fast as you can.\n• In hard & insane levels: touch the screen when the color of the circle changes to marked on the screen top.\n\n• After 10 attempts your reaction speed will be calculated.";
+
+//////////////////////////////////////// Options
+
+"optionsTitle" = "OPTIONS";
+"selectColorOfLight" = "Color:";
+"selectDifficulty" = "Difficulty level:";
+"selectGameMode" = "Game mode:";
+"selectLanguage" = "Language:";
+"selectSound" = "Sound:";
+"followUs" = "Follow us:";
+
+//////////////////////////////////////// News
+
+"newsTitle" = "NEWS";
+"newsAbout" = "Now you can post your score on Facebook and Twitter. Buttons for it located on highscores screen.\nMoreover you can follow us, check settings for this.\nHave a good game :)";
+
+//////////////////////////////////////// Purchases
+
+"purchasesTitle" = "PURCHASES";
+"removeAdsText" = "| Remove Ads for $0.99 |";
+"removeAdsYes" = "(already purchased)";
+"restoreText" = "| Restore the purchase |";
+"removeAdsNo" = "(tap on text to purchase)";
+"donateTitle" = "DONATE";
+"internetAvailabilityTitle" = "Internet connection status:";
+
+//////////////////////////////////////// More Games
+
+"moreGamesTitle" = "MORE GAMES";
+"priceFree" = "| Free";
+"download" = "| Download";
+"goToAppStore" = "| Go to developer page on AppStore |";
+"goToAppStorePad" = "| Go to developer page on AppStore |";
+
+//////////////////////////////////////// Texts
+
+"bestScore" = "Best:";
+"lastScore" = "Last:";
+
+//////////////////////////////////////// GameCenter
+
+"leaderboards" = "Leaderboards";
+"achievements" = "Achievements";
+
+//////////////////////////////////////// Alert Messages
+
+"noInternetConnectionTitle" = "Offline";
+"noInternetConnectionMessage" = "Internet connection is not available.";
+"close" = "Close";
+"cancel" = "Cancel";
+"developer" = "Developer";
+"engine" = "Engine";
+"sounds" = "Sounds";
+"error" = "Error";
+"firstPlay" = "First you have to play the game.";
+"GCErrorTitle" = "Game Center Unavailable";
+"GCErrorMessage" = "Player is not signed in";
+
+"RateTitle" = "Rate the game?";
+"RateMessage" = "Every mark will attract more challengers. Thanks for your support!";
+"RateOk" = "Rate it!";
+"RateLater" = "Later";
+"RateNo" = "No, thanks";
+
+"RatedTitle" = "Thanks!";
+"RatedMessage" = "We'll not forget this :)";
+
+//////////////////////////////////////// MCGameCenter
+
+"MCGC_successTitle" = "Done";
+"MCGC_highscoreText" = "Highscore";
+"MCGC_successMessage" = "synchronization success.";
+"MCGC_errorTitle" = "Error";
+"MCGC_errorMessage" = "Highscore sending failed.";
+
+//////////////////////////////////////// MCInAppPurchases
+
+"MCIAP_connectionError" = "Connection Error";
+"MCIAP_tryAgainMessage" = "Please try again later.";
+"MCIAP_purchasingDisabled" = "In-App Purchasing disabled";
+"MCIAP_parentalControl" = "Check your parental control settings and try again.";
+"MCIAP_progressAlertTitle" = "Waiting for server response";
+"MCIAP_progressAlertMessage" = "Please wait...";
+"MCIAP_purchaseSuccessfulTitle" = "Thank You!";
+"MCIAP_purchaseRemoveAdsMessage" = "Ads removal success. Restart game to apply changes.";
+"MCIAP_purchaseDonate1Message" = "You successfully donated $1. We appreciate your donation.";
+"MCIAP_purchaseDonate3Message" = "You successfully donated $3. We appreciate your donation.";
+"MCIAP_purchaseDonate5Message" = "You successfully donated $5. We appreciate your donation.";
+"MCIAP_purchaseDonate10Message" = "You successfully donated $10. We appreciate your donation.";
+"MCIAP_purchaseDonate25Message" = "You successfully donated $25. We appreciate your donation.";
+"MCIAP_purchasingError" = "Purchasing Error";
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// GAME LAYERS
+
+"timings" = "Time:";
+"finalScore" = "Your time:";
+"lateWarning" = "Too long!";
+"earlyWarning2Players" = "Don't touch the screen till the color changes red.";
+"earlyWarningEasy" = "Don't touch the screen till the color changes red.\nMistakes left: ";
+"earlyWarningHard" = "Don't touch the screen till the color changes to marked on top.\nMistakes left: ";
+"earlyWarningInsane" = "Don’t touch the screen till circle color and color marked on top coincide.\nMistakes left: ";
+
+"RED" = "RED";
+"BLUE" = "BLUE";
+"GREEN" = "GREEN";
+"YELLOW" = "YELLOW";
+"VIOLET" = "VIOLET";
+"ORANGE" = "ORANGE";
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// HIGHSCORES LAYERS
+
+"currentReaction" = "Current reaction time:";
+"synchronizeGC" = "| Synchronize with GC |";
+
+"postText"      = "My reaction speed is";
+"postEnd" = "Try to beat it!";
+"twitterURL" = "https://itunes.apple.com/en/app/check-your-reaction/id515273616?mt=8";
+"@ApogeeStudio" = "@ApogeeStudioEn";
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// SPRITES
+
+"playButtonBottom" = "playBottom_en.png";
+"playButtonBottomTapped" = "playBottomTapped_en.png";
+"easyButton" = "easy_en.png";
+"easyButtonTapped" = "easyTapped_en.png";
+"normalButton" = "normal_en.png";
+"normalButtonTapped" = "normalTapped_en.png";
+"hardButton" = "hard_en.png";
+"hardButtonTapped" = "hardTapped_en.png";
+"insaneButton" = "insane_en.png";
+"insaneButtonTapped" = "insaneTapped_en.png";
+"moreGamesButton" = "moreGamesEN.png";
+"moreGamesButtonTapped" = "moreGamesENTapped.png";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
